@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - MUSIC_VOLUME_SLIDER
+  - Enemy
+  - Object
   layers:
   - Default
   - TransparentFX
